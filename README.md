@@ -13,7 +13,7 @@ $ git clone https://github.com/Atharvaaat/Rock-Paper-Scissors-game.git
 
 3.Navigate to the project directory.
 copy command:
-$ cd Rock-Paper-Scissors game
+$ cd Rock-Paper-Scissors-game
 
 4.Run the game script.
 copy command:

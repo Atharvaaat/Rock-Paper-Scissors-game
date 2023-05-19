@@ -5,7 +5,7 @@ This is a Python implementation of the popular game "Rock Paper Scissors" with a
 ## Installation
 To run this game on your local machine, follow these steps:
 
-1. Make sure you have Python 3.x installed on your system. If not, you can download and install Python from the official website: [Python Downloads](https://www.python.org/downloads/)
+1. Make sure you have Python 3.10 installed on your system. If not, you can download and install Python from the official website: [Python Downloads](https://www.python.org/downloads/)
 
 2. Clone this GitHub repository to your local machine or download the source code as a ZIP file.
 copy command:

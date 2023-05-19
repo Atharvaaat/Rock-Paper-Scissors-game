@@ -5,19 +5,14 @@ This is a Python implementation of the popular game "Rock Paper Scissors" with a
 ## Installation
 To run this game on your local machine, follow these steps:
 
-1. Make sure you have Python 3.10 installed on your system. If not, you can download and install Python from the official website: [Python Downloads](https://www.python.org/downloads/)
+1. Make sure you have Python 3.10 installed on your system. If not, you can download and install Python from the official      website: [Python Downloads](https://www.python.org/downloads/)
 
-2. Clone this GitHub repository to your local machine or download the source code as a ZIP file.
-copy command:
-$ git clone https://github.com/Atharvaaat/Rock-Paper-Scissors-game.git
-
-3.Navigate to the project directory.
-copy command:
-$ cd Rock-Paper-Scissors-game
-
-4.Run the game script.
-copy command:
-$ app.py
+2. Clone this GitHub repository to your local machine or download the source code as a ZIP file.---- copy command ----->
+   $ git clone https://github.com/Atharvaaat/Rock-Paper-Scissors-game.git
+3. Navigate to the project directory.----- copy command ----->
+   $ cd Rock-Paper-Scissors-game
+4. Run the game script.----- copy command ----->
+  $ app.py
 
 
 ## How to Play
